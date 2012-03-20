@@ -1,0 +1,16 @@
+This project generates web server log files based on configurable parameters.
+
+The parameters are:
+* List of URLs
+* List of IP addresses
+* # of clicks per session
+* Date range
+* List of browsers
+
+The log files are delimited by tabs, and the columns are:
+* ip address
+* url
+* timestamp
+* browser
+
+This project is a development effort in progress.
